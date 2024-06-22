@@ -12,5 +12,6 @@ for(b=1;b<=12;b++){
     console.log(c);
 }
 
-//challenge number 4: tabulate multiplication tables with numbers from 1 to 10
+//challenge number 4: tabulate multiplication tables with numbers from 1 to 12
+
 
