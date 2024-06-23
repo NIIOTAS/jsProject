@@ -22,4 +22,4 @@ for(e=1;e<=12;e++){
     //console.log(`${d}*${e}={result}`)
 }
 
-
+//Challenge number 4:
