@@ -1,4 +1,4 @@
-/*Challenge number 1: printing numbers from 1 to 10
+/* printing numbers from 1 to 10
 
 Code*/
 
